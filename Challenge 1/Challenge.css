@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+}
+
+.container {
+  height: 100vh;
+  background-color: white;
+}
+
+.parents1 {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  height: 40%;
+  border-style: double;
+}
+
+.child1 {
+  width: 40%;
+  background-color: white;
+  border-style: double;
+}
+
+.parents2 {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  height: 50%;
+  border-style: double;
+}
+
+.child2 {
+  width: 40%;
+  background-color: white;
+  border-style: double;
+}
+
+.child3 {
+  height: 35%;
+  background-color: white;
+  border-style: groove;
+}
+
+.gap {
+  height: 58%;
+}
+
+.child4 {
+  height: 30%;
+  background-color: rgb(214, 214, 214);
+}
+
+.child5 {
+  height: 75%;
+  background-color: rgb(214, 214, 214);
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+}
